@@ -1,0 +1,9 @@
+table{
+    width: 100px;
+}
+th {
+    background-color: rgb(94, 172, 94);
+  }
+table,th,td{
+    border: 1px solid green;
+}

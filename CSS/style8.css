@@ -1,0 +1,17 @@
+h3{
+    border-style: solid;
+    border-width: 9px thick;
+    background-color: rgb(192, 219, 228);
+}
+
+div{
+    border-style: solid;
+    border-width: thick;
+    background-color: rgb(192, 219, 228);
+}
+
+p{
+    border-style: solid;
+    border-width: thin;
+    background-color: rgb(192, 219, 228);
+}
